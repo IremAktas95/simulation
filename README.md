@@ -20,7 +20,7 @@ Devre üç temel işlevi yerine getirir:
 | :--- | :--- | :--- |
 | **V1** | 24V | Ana Güç Kaynağı |
 | **M2** | 2N7002 | N-Kanal MOSFET |
-| **D1** | 1N5819 | Flyback Diyodu |
+| **D1** | 1N5819HW | Flyback Diyodu |
 | **R7** | 10Ω | Akım Algılama (Shunt) Direnci |
 | **R2** | 10kΩ | Gate Pull-down Direnci |
 | **U1** | INA199A1 | Op-Amp (Yükselteç) |
