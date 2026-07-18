@@ -15,7 +15,7 @@ Devre üç temel işlevi yerine getirir:
 *   **Durum Göstergesi:** Röle enerjili iken aktif olan bir LED, görsel geri bildirim sağlar.
 *   **Akım İzleme:** Devrede, bobin akımını izlemek için 10Ω değerinde bir shunt direnci (R_{shunt}) kullanılmıştır. Bu değer, nominal bobin akımında (~16.7mA) yaklaşık 150-167mV seviyesinde bir gerilim düşümü oluşturacak şekilde seçilmiştir.
 
-## 3. Bileşen Listesi
+## 3. Malzeme Listesi
 | Referans | Değer | Açıklama |
 | :--- | :--- | :--- |
 | **V1** | 24V | Ana Güç Kaynağı |
