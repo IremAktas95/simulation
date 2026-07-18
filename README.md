@@ -1,5 +1,5 @@
 # Simulation
-# STM32 Kontrollü Röle Sürücü ve Akım Geri Okuma Devresi
+# STM32 Kontrollü Röle Sürücü ve Akım Okuma Devresi
 
 Bu proje, bir STM32 mikrodenetleyicisi ile 24V’luk bir rölenin güvenli bir şekilde sürülmesini ve bobin akımının op-amp tabanlı bir devre üzerinden ADC ile izlenmesini konu alan LTspice simülasyon çalışmasıdır.
 
